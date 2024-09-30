@@ -1,5 +1,3 @@
-# cognifyz-technologies-data-science-internship
-
 # COGNIFYZ
 Data Science Internship Tasks by @COGNIFY Technologies🎉.
 
@@ -73,9 +71,6 @@ Creating visualizations to represent the distribution of ratings using different
 Comparing the average ratings of different cuisines or cities using appropriate visualizations.
 Visualizing the relationship between various features and the target variable to gain insights.
 
-You can Reach Me or Find the Each and Every Task Videos here: 
-https://www.linkedin.com/in/b-chaithanya-krishna-0ab561246
+You can Reach Me or Find the Each and Every Task Videos here: https://www.linkedin.com/in/b-chaithanya-krishna-0ab561246
 
 Thanks to COGNIFYZ Technologies for providing this opportunity❤️.
-
-
